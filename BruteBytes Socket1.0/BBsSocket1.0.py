@@ -1,11 +1,8 @@
-import art
+
 from socket import *
 import socket
 import sys
-
-lgo = "BruteBytes"
-print(art.text2art(lgo))
-print("SOCKET BY BRUTEBYTE")
+print("SOCKET BY BRUTEBYTES")
 print("This is used to create a socket not anything serious!!!")
 socket_name = input("Enter Socket Name : ")
 
